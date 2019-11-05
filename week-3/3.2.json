@@ -1,0 +1,33 @@
+
+
+
+"user":{
+    "_id": "fr948374",
+    "first_name": "Lorelai",
+    "last_name": "Gilmore",
+    "link_user_roles": [
+            {
+            "role": {
+                "role_id": "admin9087",
+                "link_role_permission": {
+                    "permission": [
+                        {"type": "accept"},
+                        {"type": "decline"}
+                    ]
+                }
+            }
+        },
+        {
+             "role": {
+                 "role_id": "admin0654",
+                 "link_role_permission": {
+                     "permission": [ 
+                        {"type": "yes"},
+                        {"type": "no"} 
+                 ]
+             }
+         }
+    }      
+         
+     
+ 

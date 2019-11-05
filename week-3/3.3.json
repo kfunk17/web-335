@@ -1,0 +1,20 @@
+
+
+"publisher":{
+    "publisher_name": "Dell Publishing",
+    "publisher_code": "a4364",
+    "publisher_address": "New York, NY",
+    "books": [
+        {
+        "book_isbn": "9780440066927",
+        "book_name": "The Onion Field",
+        "book_price": "$14.63",
+        "author": [
+            {
+                "author_first_name": "Joseph",
+                "author_last_name": "Wambaugh",
+                "author_phone": "888-590-1209",
+                "author_email": "info@josephwambaugh.net"
+            }
+        ]
+    ]
