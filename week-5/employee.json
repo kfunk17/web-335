@@ -1,0 +1,81 @@
+
+{
+
+    "_id" : ObjectId("5a9cd04809bf28f9732de0c2"),
+
+    "first_name" : "Johann",
+
+    "last_name" : "Bach",
+
+    "employee_id" : "0011223",
+
+    "email" : "jbach@me.com",
+
+    "date_created" : ISODate("2018-03-05T04:58:53.871Z")
+
+}
+
+{
+
+    "_id" : ObjectId("5aa557cdc09087743a7e4e03"),
+
+    "first_name" : "Wolfgang",
+
+    "last_name" : "Mozart",
+
+    "employee_id" : "0000001",
+
+    "email" : "wmozart@me.com",
+
+    "date_created" : ISODate("2018-03-11T16:21:09.722Z")
+
+}
+
+{
+
+    "_id" : ObjectId("5aa55819c09087743a7e4e04"),
+
+    "first_name" : "Ludwig",
+
+    "last_name" : "Beethoven",
+
+    "employee_id" : "0000002",
+
+    "email" : "lbeethoven@me.com",
+
+    "date_created" : ISODate("2018-03-11T16:23:47.059Z")
+
+}
+
+{
+
+    "_id" : ObjectId("5aa5585ac09087743a7e4e05"),
+
+    "first_name" : "Giuseppe",
+
+    "last_name" : "Verdi",
+
+    "employee_id" : "0000003",
+
+    "email" : "gverdi@me.com",
+
+    "date_created" : ISODate("2018-03-11T16:24:51.603Z")
+
+}
+
+{
+
+    "_id" : ObjectId("5aa5589fc09087743a7e4e06"),
+
+    "first_name" : "Frederic",
+
+    "last_name" : "Chopin",
+
+    "employee_id" : "0000004",
+
+    "email" : "fchopin@me.com",
+
+    "date_created" : ISODate("2018-03-11T16:25:59.164Z")
+
+}
+
