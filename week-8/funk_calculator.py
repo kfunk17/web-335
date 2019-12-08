@@ -6,16 +6,16 @@
 # ---------------------------------------
 
 # Create an “add” function with two parameters
-def add(num1, num2):
-	return num1 + num2
+def add(number1, number2):
+	return number1 + number2
 
 # Create a “subtract” function with two parameters
-def subtract(num1, num2):
-	return num1 - num2
+def subtract(number1, number2):
+	return number1 - number2
 
 # Create a “divide” function with two parameters 
-def divide(num1, num2):
-	return num1 / num2
+def divide(number1, number2):
+	return number1 / number2
 
 # Call each function with a separate print statement 
 print(add(357, 24))
